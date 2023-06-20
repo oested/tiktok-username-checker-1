@@ -43,7 +43,32 @@ async def check():
         elif check == 429:
             print(f"\n{Fore.LIGHTRED_EX} [!]{Fore.RESET} You are being ratelimited! Sleeping for 30 Seconds . . .\n")
             time.sleep(30)
-            check()
+            check()erug
+7np7
+w05i
+kkq6
+rukm
+3m0t
+siej
+bwfb
+rlnf
+3b0i
+73tc
+esp5
+g5f0
+29yr
+k85l
+l5eq
+5k9k
+dqwb
+eiax
+3xyl
+ksgf
+98ae
+svqp
+f8b1
+s5d5
+
             return
         else:
             print(f"{Fore.LIGHTRED_EX} [?]{Fore.RESET} Unknown Error . . . - {check}")
